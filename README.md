@@ -39,7 +39,7 @@ This is a typing speed test program implemented in Python. It measures your typi
    - Type the displayed text as fast and accurately as you can.
    - Your typing speed in WPM will be displayed in real-time.
    - Once you've typed the entire text correctly, a completion message will appear.
-   - Be fast and (!=furious).
+   - Be fast and !=(furious).
 
 3. **Exit the program:**
 
